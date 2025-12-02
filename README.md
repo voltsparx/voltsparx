@@ -70,8 +70,8 @@
   - voltsparx@gmail.com  
   - voltsparx303@gmail.com  
   - phanfronix@gmail.com  
-- 📸 Instagram: **@voltsparx**  
-- ▶️ YouTube: **@voltsparx**
+- 📸 Instagram: **https://instagram.com/voltsparx/**  
+- ▶️ YouTube: **https://youtube.com/@voltsparx/**
 
 ---
 
