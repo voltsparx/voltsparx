@@ -92,6 +92,18 @@
 
 ---
 
+### 🗄️ Databases & Data Technologies
+- SQL  <br>
+  <a href="https://www.iso.org/standard/63555.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="sql" width="40"/></a>
+- MySQL  <br>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/></a>
+- PostgreSQL  <br>
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40"/></a>
+- SQLite  <br>
+  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="40"/></a>
+
+---
+
 ## 🛡️ Cybersecurity Interests
 - Penetration Testing  
 - Network Security  
