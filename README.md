@@ -22,6 +22,8 @@
 ## 🧪 Tech Stack & Skills
 
 ### 🧱 System & Low-Level Programming
+- Assembly
+  <a href="https://en.wikipedia.org/wiki/Assembly_language" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/assembly/assembly-original.svg" width="40"/></a>
 - C  
   <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/></a>
 - C++  
