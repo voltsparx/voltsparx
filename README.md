@@ -93,8 +93,6 @@
 ---
 
 ### 🗄️ Databases & Data Technologies
-- SQL  <br>
-  <a href="https://www.iso.org/standard/63555.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="sql" width="40"/></a>
 - MySQL  <br>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/></a>
 - PostgreSQL  <br>
