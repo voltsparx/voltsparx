@@ -9,10 +9,11 @@
 - 🌐 Web Designer & Web App Creator  
 - 📊 Data Science learner  
 - ☕ Coffee lover — especially **cold latte**  
-- 📚 Deep interest in **Physics, Chemistry, Maths & Quantum Mechanics**
-- 🎧 *Pluviophile* (rain lover)  
-- ⚡ *Ceraunophile* (thunder/lightning lover)  
-- 📖 *Philomath* — I love learning every branch of science  
+- 📚 Deep interest in **Physics, Chemistry, Maths & Quantum Mechanics, History**
+- 🎧 *Pluviophile* — Love the peaceful sound of Rain  
+- ⚡ *Ceraunophile* — Thunder/Lightning lover  
+- 📖 *Philomath* — I love learning nearly every branch of Science  
+- 🎵 *Melophile* — Love hearing and listening to Music/Songs  
 - 🎮 Sometimes into gaming  
 - 🧠 Introverted but curious  
 - 🛰️ Founder & Owner of **Voltros Community**
@@ -104,7 +105,9 @@
 
 ## 🛡️ Cybersecurity Interests
 - Penetration Testing  
-- Network Security  
+- Network Security
+- Malware Analysis
+- Digital Forensic
 - Web Exploitation  
 - Reverse Engineering (learning)  
 - Red / Blue Team fundamentals  
@@ -117,11 +120,12 @@
 - Machine Learning & Data Science  
 - Web Pentesting  
 - Java & Kotlin for Android  
-- Golang for backend & tooling  
+- Golang for backend & tooling
+- More...  
 
 ---
 
-## 🚀 Projects & Goals
+## 🚀 Projects & Goals (Here)
 - ⚡ Building cybersecurity tools  
 - 📡 Creating educational resources under **Voltros Community**  
 - 🌐 Developing modern, responsive web applications  
@@ -130,17 +134,12 @@
 
 ---
 
-## 🌟 Fun Additions
+## 🌟 Additions
 - 🌩️ Lightning & storm aesthetics  
 - 🌧️ Inspired by rain  
 - 📚 Constant self-learner  
-- 🔥 Passionate about tech, science, and creativity  
-
----
-
-## ⭐ Quote I Live By
-> *“Stay curious. Stay building. Stay learning.”*
-
+- 🔥 Passionate about tech, science, and creativity
+  
 ---
 
 ### 🎉 Thanks for visiting my profile!  
