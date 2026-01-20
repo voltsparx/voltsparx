@@ -20,6 +20,21 @@
 
 ---
 
+## 📫 Contact & Social Media
+
+### 🌐 Find me Online
+<p align="left"> <a href="https://instagram.com/voltsparx" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="30"/> </a><b> Instagram </b></p>
+<p align="left"> <a href="https://x.com/Voltsparx" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/128/5968/5968830.png" width="30"/> </a><b> X (Twitter) </b></p>
+<p align="left"> <a href="https://youtube.com/@voltsparx" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" width="30"/> </a><b> YouTube </b></p>
+<p align="left"> <a href="https://www.facebook.com/profile.php?id=61585249348561" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Facebook_Logo_%282019%29.png" width="30"/> </a><b> Facebook </b></p>
+
+### 📧 E-Mails
+<p align="left"> <a href="mailto:voltsparx@gmail.com" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="30"/> </a> <b> voltsparx@gmail.com </b> </p>
+<p align="left"> <a href="mailto:phanfronix@gmail.com" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="30"/> </a> <b> phanfronix@gmail.com </b> </p>
+<p align="left"> <a href="mailto:voltsparx303@gmail.com" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="30"/> </a> <b> voltsparx303@gmail.com </b> </p>
+
+---
+
 ## 🧪 Tech Stack & Skills
 
 ### 🧱 System & Low-Level Programming
