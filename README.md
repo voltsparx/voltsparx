@@ -154,11 +154,9 @@
 <tr>
 <td>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="36"/> MySQL<br>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="36"/> PostgreSQL
 </td>
-
-<td style="border-left:2px solid #555; padding-left:15px;">
-<img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="36"/> SQLite
+<td>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="36"/> PostgreSQL
 </td>
 </tr>
 </table>
