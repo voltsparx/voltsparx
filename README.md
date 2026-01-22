@@ -123,11 +123,11 @@
 ## 🛡️ Cybersecurity Interests
 - Penetration Testing  
 - Network Security
-- Malware Analysis
+- Malware Analysis (educational)
 - Digital Forensic
 - Web Exploitation  
 - Reverse Engineering (learning)  
-- Red / Blue Team fundamentals  
+- Red / Blue Team fundamentals  (learning)
 - Threat Analysis & OSINT  
 
 ---
@@ -143,19 +143,20 @@
 ---
 
 ## 🚀 Projects & Goals (Here)
-- ⚡ Building cybersecurity tools  
-- 📡 Creating educational resources under **Voltros Community**  
-- 🌐 Developing modern, responsive web applications  
-- 🧬 Exploring quantum computing concepts  
-- 🤖 Practicing machine learning & data analytics  
+- ⚡ Building cybersecurity tools.
+- 🎮 Making some games. Cause why not?
+- 📡 Creating educational resources under **Voltros Community**.
+- 🌐 Developing modern, responsive web applications.
+- 🧬 Exploring quantum computing concepts.
+- 🤖 Practicing machine learning & data analytics.
 
 ---
 
 ## 🌟 Additions
-- 🌩️ Lightning & storm aesthetics  
-- 🌧️ Inspired by rain  
-- 📚 Constant self-learner  
-- 🔥 Passionate about tech, science, and creativity
+- 🌩️ Lightning & storm aesthetics.
+- 🌧️ Inspired by rain.
+- 📚 Constant self-learner.
+- 🔥 Passionate about tech, science, and creativity.
   
 ---
 
