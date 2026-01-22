@@ -5,8 +5,8 @@
 
 ## 👤 About Me
 - 🔐 Cybersecurity Learning School Student (Offensive/Defensive)  
-- 💻 Programmer & Software Developer  
-- 🌐 Web Designer & Web App Creator  
+- 💻 Programmer & Software Developer  (Learning)
+- 🌐 Web Designer & Web App Creator  (Learning)
 - 📊 Data Science Learner   
 - ☕ Coffee lover — especially **cold latte**  
 - 📚 Deep interest in **Physics, Chemistry, Maths & Quantum Mechanics, History**  
