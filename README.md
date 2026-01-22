@@ -209,14 +209,10 @@
 
 <p align="center">
   <a>
+   <img width="32%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=voltsparx&theme=dark&border_radius=10&hide_title=true&layout=compact&langs_count=20" alt="GitHub language stats" />
    <img src="https://github-readme-stats.vercel.app/api?username=voltsparx&show_icons=true&theme=tokyonight&hide_border=true" />
+   <img width="40%" src="https://github-readme-activity-graph.vercel.app/graph?username=voltsparx&bg_color=1a1b27&color=aa82d9&line=628edb&point=64bfaf&area=true&hide_border=true)(https://github.com/ashutosh00710/github-readme-activity-graph)" />
    <img width="50%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=voltsparx&theme=dark" />
-  <img width="40%" src="https://github-readme-activity-graph.vercel.app/graph?username=voltsparx&bg_color=1a1b27&color=aa82d9&line=628edb&point=64bfaf&area=true&hide_border=true)(https://github.com/ashutosh00710/github-readme-activity-graph)" />
-  </a>
-</p>
-<p align="center">
-    <img width="40%" src="https://github-readme-stats.vercel.app/api?username=U7P4L-IN&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
-    <img width="32%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=voltsparx&theme=dark&border_radius=10&hide_title=true&layout=compact&langs_count=20" alt="GitHub language stats" />
   </a>
 </p>
 
