@@ -24,97 +24,141 @@
 
 ## 📫 Contact & Social Media
 
-### 🌐 Find me Online
-<p align="left"> <a href="https://instagram.com/voltsparx" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="30"/> </a><b> Instagram </b></p>
-<p align="left"> <a href="https://x.com/Voltsparx" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/128/5968/5968830.png" width="30"/> </a><b> X (Twitter) </b></p>
-<p align="left"> <a href="https://youtube.com/@voltsparx" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" width="30"/> </a><b> YouTube </b></p>
-<p align="left"> <a href="https://www.facebook.com/profile.php?id=61585249348561" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Facebook_Logo_%282019%29.png" width="30"/> </a><b> Facebook </b></p>
+### 🌐 Find me Online or Contact me
 
-### 📧 E-Mails
-<p align="left"> <a href="mailto:voltsparx@gmail.com" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="30"/> </a> <b> voltsparx@gmail.com </b> </p>
-<p align="left"> <a href="mailto:phanfronix@gmail.com" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="30"/> </a> <b> phanfronix@gmail.com </b> </p>
-<p align="left"> <a href="mailto:voltsparx303@gmail.com" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="30"/> </a> <b> voltsparx303@gmail.com </b> </p>
+<p align="center"> <a href="https://discord.gg/5TTg9s7tgz"><img alt="Discord" title="Discord" src="https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a><a href="https://youtube.com/@voltsparx"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a></br> <p align="center"><a href="https://x.com/Voltsparx"><img title="Twitter" src="https://img.shields.io/badge/Twitter-12100E?style=for-the-badge&logo=twitter&logoColor=white"></a><a href="https://www.facebook.com/profile.php?id=61585249348561"><img title="Facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white"></a><a href="https://instagram.com/voltsparx"><img title="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
+<p align="center">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=voltsparx@gmail.com">
+    <img title="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</p>
 
 ---
 
 ## 🧪 Tech Stack & Skills
 
 ### 🧱 System & Low-Level Programming
-- Assembly  <br>
-  <a href="https://en.wikipedia.org/wiki/Assembly_language" target="_blank"><img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/microchip.svg" width="40"/></a>
-- C  <br>
-  <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/></a>
-- C++  <br>
-  <a href="https://isocpp.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/></a>
-- Rust  <br>
-  <a href="https://www.rust-lang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" width="40"/></a>
+
+<table>
+<tr>
+<td>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="36"/> C<br>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="36"/> C++
+</td>
+
+<td style="border-left:2px solid #555; padding-left:15px;">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" width="36"/> Rust<br>
+<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/microchip.svg" width="36"/> Assembly
+</td>
+</tr>
+</table>
+
+
 
 ---
 
 ### 🧠 High-Level Programming Languages
-- Python  <br>
-  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/></a>
-- Java  <br>
-  <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/></a>
-- Ruby  <br>
-  <a href="https://www.ruby-lang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" width="40"/></a>
-- Go (Golang)  <br>
-  <a href="https://go.dev/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="40"/></a>
-- JavaScript  <br>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/></a>
-- Kotlin  <br>
-  <a href="https://kotlinlang.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" width="40"/></a>
-- F#  <br>
-  <a href="https://learn.microsoft.com/dotnet/fsharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fsharp/fsharp-original.svg" alt="fsharp" width="40"/></a>
-- PHP  <br>
-  <a href="https://www.php.net/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40"/></a>
-- VBScript (VBS)  <br>
-  <a href="https://learn.microsoft.com/en-us/previous-versions//t0aew7h6(v=vs.85)" target="_blank" rel="noreferrer"><img src="https://logodix.com/logo/1718712.jpg" alt="vbscript" width="40"/></a>
+
+<table>
+<tr>
+<td>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="36"/> Python<br>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="36"/> Java<br>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="36"/> Go<br>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="36"/> JavaScript
+</td>
+
+<td style="border-left:2px solid #555; padding-left:15px;">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" width="36"/> Kotlin<br>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" width="36"/> Ruby<br>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="36"/> PHP<br>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fsharp/fsharp-original.svg" width="36"/> F#
+</td>
+</tr>
+</table>
+
 ---
 
 ### 🧰 Scripting & Automation
-- Bash  <br>
-  <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="40"/></a>
-- PowerShell  <br>
-  <a href="https://learn.microsoft.com/powershell/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powershell/powershell-original.svg" width="40"/></a>
-- Windows Batch  <br>
-  <a href="https://learn.microsoft.com/windows-server/administration/windows-commands/windows-commands" target="_blank"><img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" width="40"/></a>
+
+<table>
+<tr>
+<td>
+<img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="36"/> Bash<br>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powershell/powershell-original.svg" width="36"/> PowerShell
+</td>
+
+<td style="border-left:2px solid #555; padding-left:15px;">
+<img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" width="36"/> Batch<br>
+<img src="https://logodix.com/logo/1718712.jpg" width="36"/> VBScript
+</td>
+</tr>
+</table>
+
 
 ---
 
 ### ⚙️ Runtimes & Platforms
-- Node.js (JavaScript Runtime)  <br>
-  <a href="https://nodejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/></a>
-- Arduino (Embedded Platform – C/C++)  <br>
-  <a href="https://www.arduino.cc/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40"/></a>
+
+<table>
+<tr>
+<td>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="36"/> Node.js
+</td>
+
+<td style="border-left:2px solid #555; padding-left:15px;">
+<img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="36"/> Arduino
+</td>
+</tr>
+</table>
+
 
 ---
 
 ### 📡 Messaging & Infrastructure
-- RabbitMQ (Message Broker / AMQP)  <br>
-  <a href="https://www.rabbitmq.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" width="40"/></a>
+
+<table>
+<tr>
+<td>
+<img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" width="36"/> RabbitMQ
+</td>
+</tr>
+</table>
+
 
 ---
 
 ### 🌐 Web Technologies
-- HTML  <br>
-  <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/></a>
-- CSS  <br>
-  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/></a>
-- JavaScript  <br>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/></a>
-- XML  <br>
-  <a href="https://www.w3.org/XML/" target="_blank"><img src="https://www.vectorlogo.zone/logos/w3c_xml/w3c_xml-icon.svg" width="40"/></a>
+
+<table>
+<tr>
+<td>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="36"/> HTML<br>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="36"/> CSS
+</td>
+
+<td style="border-left:2px solid #555; padding-left:15px;">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="36"/> JavaScript<br>
+<img src="https://www.vectorlogo.zone/logos/w3c_xml/w3c_xml-icon.svg" width="36"/> XML
+</td>
+</tr>
+</table>
 
 ---
 
 ### 🗄️ Databases & Data Technologies
-- MySQL  <br>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/></a>
-- PostgreSQL  <br>
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40"/></a>
-- SQLite  <br>
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="40"/></a>
+
+<table>
+<tr>
+<td>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="36"/> MySQL<br>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="36"/> PostgreSQL
+</td>
+
+<td style="border-left:2px solid #555; padding-left:15px;">
+<img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="36"/> SQLite
+</td>
+</tr>
+</table>
 
 ---
 
