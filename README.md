@@ -49,7 +49,6 @@
 </td>
 
 <td style="border-left:2px solid #555; padding-left:15px;">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" width="36"/> Rust<br>
 <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/microchip.svg" width="36"/> Assembly
 </td>
 </tr>
