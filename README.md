@@ -15,7 +15,7 @@
 - 🎧 *Pluviophile* — Love the peaceful sound of Rain  
 - ⚡ *Ceraunophile* — Thunder/Lightning Lover  
 - 📖 *Philomath* — I Love Learning nearly every Branch of Science  
-- 🎵 *Melophile* — Love Hearing and Listening to Music/Songs  
+- 🎵 *Melophile* — Love Hearing and Listening to Music/Songs and Retrowaves/Synthwaves  
 - 🎮 Sometimes into Gaming  
 - 🔐 Introverted but Curious  
 - 🏸 I like Playing Badminton  
