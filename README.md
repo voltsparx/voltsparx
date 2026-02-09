@@ -12,14 +12,14 @@
 - 📊 Data Science Learner   
 - ☕ Coffee lover — especially **cold latte**  
 - 📚 Deep interest in **Physics, Chemistry, Maths & Quantum Mechanics, History**  
-- 🎧 *Pluviophile* — Love the peaceful sound of Rain  
-- ⚡ *Ceraunophile* — Thunder/Lightning Lover  
-- 📖 *Philomath* — I Love Learning nearly every Branch of Science  
-- 🎵 *Melophile* — Love Hearing and Listening to Music/Songs and Retrowaves/Synthwaves  
+- 🎧 *Pluviophile* — Loves the peaceful sound of Rain  
+- ⚡ *Ceraunophile* — Thunder/Lightning Aesthetic  
+- 📖 *Philomath* — Loves Learning nearly every Branch of Science  
+- 🎵 *Melophile* — Loves Hearing and Listening to Music/Songs and Retrowaves/Synthwaves  
 - 🎮 Sometimes into Gaming  
-- 🔐 Introverted but Curious  
-- 🏸 I like Playing Badminton  
-- 🎼 I like Playing Music on Piano and Guitar (Learner)
+- 🔐 Introverted but Simple  
+- 🏸 Likes Playing Badminton  
+- 🎼 Likes to Play Music on Piano and Guitar (Learner)
 - 🪪 Birth Kernal — Aug/26
 - 🛰️ Founder & Owner of **Voltros Community** (Still Building)  
 
