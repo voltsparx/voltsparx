@@ -20,7 +20,7 @@
 - 🔐 Introverted but Simple  
 - 🏸 Likes Playing Badminton  
 - 🎼 Likes to Play Music on Piano and Guitar (Learner)
-- 🪪 Birth Kernal — Aug/26
+- 🪪 Birth Kernel — Aug/26
 - 🛰️ Founder & Owner of **Voltros Community** (Still Building)  
 
 ---
