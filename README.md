@@ -219,3 +219,9 @@
 
 <h3 align="center">🎉 Thanks for visiting my profile!</h3>
 <h4 align="center">Feel free to connect, collaborate, or just say hi 👋</h4>
+
+<p align="center">
+  <a>
+    <img src="https://raw.githubusercontent.com/voltsparx/voltsparx/output/github-contribution-grid-snake.svg" />
+  </a>
+</p>
