@@ -222,6 +222,6 @@
 
 <p align="center">
   <a>
-    <img src="https://raw.githubusercontent.com/voltsparx/voltsparx/output/github-contribution-grid-snake.svg" />
+    <img src="https://raw.githubusercontent.com/voltsparx/voltsparx/output/github-snake-dark.svg">
   </a>
 </p>
