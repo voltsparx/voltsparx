@@ -208,6 +208,7 @@
 ## 📊 GitHub Profile States
 
 <p align="center">
+  <a>
    <img width="40%" src="https://github-readme-activity-graph.vercel.app/graph?username=voltsparx&bg_color=1a1b27&color=aa82d9&line=628edb&point=64bfaf&area=true&hide_border=true" />
    <img width="50%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=voltsparx&theme=dark" />
   </a>
