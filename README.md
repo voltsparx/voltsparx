@@ -21,7 +21,8 @@
 - 🏸 Likes Playing Badminton  
 - 🎼 Likes to Play Music on Piano and Guitar (Learner)
 - 🪪 Birth Kernel — Aug/26
-- 🛰️ Founder & Owner of **Voltros Community** (Still Building)  
+- 🛰️ Founder & Owner of **Voltros Community** (Still Building)
+> **⚡Reverse Engineering, My Thoughts, My Architecture and My Thoughts are my Power Source!⚡**
 
 ---
 
