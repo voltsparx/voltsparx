@@ -1,5 +1,5 @@
 <h1 align="center">⚡ Hi there, this is Voltsparx</h1>
-<h3 align="center">| Student | Cybersecurity | Software Development | Web Engineering | Data Science |</h3>
+<h3 align="center">| Student | Cybersecurity | Software Development | Web Designing | Data Science |</h3>
 
 ---
 
