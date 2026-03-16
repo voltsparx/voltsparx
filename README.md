@@ -53,7 +53,8 @@
 </td>
 
 <td style="border-left:2px solid #555; padding-left:15px;">
-<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/microchip.svg" width="36"/> Assembly
+<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/microchip.svg" width="36"/> Assembly<br>
+<img src="https://github.com/rust-lang/rust-artwork/blob/master/logo/rust-logo-128x128.png" width="36"/> Rust
 </td>
 </tr>
 </table>
