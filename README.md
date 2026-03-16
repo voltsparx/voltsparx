@@ -22,7 +22,7 @@
 - 🎼 Likes to Play Music on Piano and Guitar (Learner)
 - 🪪 Birth Kernel — Aug/26
 - 🛰️ Founder & Owner of **Voltros Community** (Still Building)
-> **⚡Reverse Engineering, My Thoughts, My Architecture, My Design and My Thoughts are my Power Source!⚡**
+> **⚡Reverse Engineering, My Architecture, My Design and My Thoughts are my Power Source!⚡**
 
 ---
 
