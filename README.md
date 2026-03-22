@@ -5,7 +5,7 @@
 
 ## 👤 About Me
 - ⚔️ Cybersecurity Learning School Student (Offensive/Defensive)
-- 🏫 Class 8th Student
+- 🏫 Class 9th Student
 - 🛡️ 14 Yrs Old  
 - 💻 Programmer & Software Developer  (Learning)
 - 🌐 Web Designer & Web App Creator  (Learning)
