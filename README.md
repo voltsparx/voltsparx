@@ -17,12 +17,11 @@
 - 📖 *Philomath* — Loves Learning nearly every Branch of Science  
 - 🎵 *Melophile* — Loves Hearing and Listening to Music/Songs and Retrowaves/Synthwaves  
 - 🎮 Sometimes into Gaming  
-- 🔐 Introverted but Simple  
+- 🔐 Introverted and Simple by Default  
 - 🏸 Likes Playing Badminton  
-- 🎼 Likes to Play Music on Piano and Guitar (Learner)
+- 🎼 Likes to Play Music on Piano and Guitar (Learning)
 - 🪪 Birth Kernel — Aug/26
 - 🛰️ Founder & Owner of **Voltros Community** (Still Building)
-> **⚡Reverse Engineering, My Architecture, My Design and My Thoughts are my Power Source!⚡**
 
 ---
 
