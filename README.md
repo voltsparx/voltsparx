@@ -17,7 +17,8 @@
 - 📖 *Philomath* — Loves Learning nearly every Branch of Science  
 - 🎵 *Melophile* — Loves Hearing and Listening to Music/Songs and Retrowaves/Synthwaves  
 - 🎮 Sometimes into Gaming  
-- 🔐 Introverted and Simple by Default  
+- 🔐 Introverted and Simple by Default
+- 🧭 Urbex (Urban Explorer) & Adventurer
 - 🏸 Likes Playing Badminton  
 - 🎼 Likes to Play Music on Piano and Guitar (Learning)
 - 🪪 Birth Kernel — Aug/26
