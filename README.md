@@ -15,14 +15,14 @@
 - 🎧 *Pluviophile* — Loves the peaceful sound of Rain  
 - ⚡ *Ceraunophile* — Thunder/Lightning Aesthetic  
 - 📖 *Philomath* — Loves Learning nearly every Branch of Science  
-- 🎵 *Melophile* — Loves Hearing and Listening to Music/Songs and Retrowaves/Synthwaves  
+- 🗺️ *Hodophile* — Exploration Integrity 
+- 🔭 *Astrophile* — Likes to view the beauty of the Dark Abyss 
 - 🎮 Sometimes into Gaming  
-- 🔐 Introverted and Simple by Default
-- 🧭 Urbex (Urban Explorer) & Adventurer
-- 🏸 Likes Playing Badminton  
-- 🎼 Likes to Play Music on Piano and Guitar (Learning)
+- 🔐 Introverted and Simple by Default  
+- 🧭 Urbex (Urban Explorer) & Adventurer  
+- 🎼 Likes to Play Music on Piano, Guitar & Violin (Learning)
 - 🪪 Birth Kernel — Aug/26
-- 🛰️ Founder & Owner of **Voltros Community** (Still Building)
+- 🛰️ Founder & Owner of **Voltros Community**  
 
 ---
 
