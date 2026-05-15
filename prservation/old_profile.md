@@ -173,14 +173,16 @@
 ---
 
 ## 🛡️ Cybersecurity Interests  
-- Penetration Testing  
-- Network Security
-- Malware Analysis (educational)
-- Digital Forensic
-- Web Exploitation  
-- Reverse Engineering (learning)  
-- Red / Blue Team fundamentals  (learning)
-- Threat Analysis & OSINT  
+| Domain | Status |
+|---|:---:|
+| Penetration Testing | 🟢 Active |
+| Network Security | 🟢 Active |
+| Web Exploitation | 🟢 Active |
+| Threat Analysis & OSINT | 🟢 Active |
+| Digital Forensics | 🟢 Active |
+| Malware Analysis | 📘 Educational |
+| Reverse Engineering | 🔄 Learning |
+| Red / Blue Team Fundamentals | 🔄 Learning |
 
 ---
 
