@@ -230,11 +230,12 @@
 
 ---
 
-## 🌟 Additions  
-- 🌩️ Lightning & storm aesthetics.
-- 🌧️ Inspired by rain.
-- 📚 Constant self-learner.
-- 🔥 Passionate about tech, science, and creativity.
+## 🌟 A Little More
+
+- 🌩️ Lightning & storm aesthetics
+- 🌧️ Inspired by rain
+- 📚 Constant self-learner
+- 🔥 Passionate about tech, science, and creativity
   
 ---
 
