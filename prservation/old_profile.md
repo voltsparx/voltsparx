@@ -37,6 +37,11 @@
 <p align="center">
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=voltsparx@gmail.com">
     <img title="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=volsparx@proton.me">
+    <img title="Proton Mail" src="https://img.shields.io/badge/Proton%20Mail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white">
+  </a>
 </p>
 
 ---
