@@ -207,12 +207,16 @@
 ---
 
 ## 🧠 Currently Learning  
-- Advanced Python  
-- Machine Learning & Data Science  
-- Web Pentesting  
-- Java & Kotlin for Android  
-- Golang for backend & tooling
-- More...  
+```
+→  Advanced Python
+→  Machine Learning & Data Science
+→  Web Exploitation and Penetration Testing
+→  Java & Kotlin for Android
+→  Diving deeper into Assembly, C/C++ and Rust
+→  Golang for backend & tooling
+→  GPU and CPU
+→  More...
+```
 
 ---
 
