@@ -4,25 +4,45 @@
 ---
 
 ## 👤 About Me
+```
 - ⚔️ Cybersecurity Learning School Student (Offensive/Defensive)
+
 - 🏫 Class 9th Student
-- 🛡️ 14 Yrs Old  
+
+- 🛡️ 14 Yrs Old
+
 - 💻 Programmer & Software Developer  (Learning)
+
 - 🌐 Web Designer & Web App Creator  (Learning)
-- 📊 Data Science Learner   
-- ☕ Coffee lover — especially **cold latte**  
-- 📚 Deep interest in **Physics, Chemistry, Maths & Quantum Mechanics, History**  
-- 🎧 *Pluviophile* — Loves the peaceful sound of Rain  
-- ⚡ *Ceraunophile* — Thunder/Lightning Aesthetic  
-- 📖 *Philomath* — Loves Learning nearly every Branch of Science  
-- 🗺️ *Hodophile* — Exploration Integrity 
-- 🔭 *Astrophile* — Likes to view the beauty of the Dark Abyss 
-- 🎮 Sometimes into Gaming  
-- 🔐 Introverted and Simple by Default  
-- 🧭 Urbex (Urban Explorer) & Adventurer  
+
+- 📊 Data Science Learner
+
+- ☕ Coffee lover — especially **cold latte**
+
+- 📚 Deep interest in **Physics, Chemistry, Maths & Quantum Mechanics, History**
+
+- 🎧 *Pluviophile* — Loves the peaceful patters of Rain
+
+- ⚡ *Ceraunophile* — Thunder/Lightning Aesthetic
+
+- 📖 *Philomath* — Loves Learning nearly every Branch of Science
+
+- 🗺️ *Hodophile* — Exploration Integrity
+
+- 🔭 *Astrophile* — Likes to view the beauty of the Dark Abyss
+
+- 🎮 Sometimes into Gaming
+
+- 🔐 Introverted and Simple by Default
+
+- 🧭 Urbex (Urban Explorer) & Adventurer
+
 - 🎼 Likes to Play Music on Piano, Guitar & Violin (Learning)
+
 - 🪪 Birth Kernel — Aug/26
-- 🛰️ Founder & Owner of **Voltros Community**  
+
+- 🛰️ Founder & Owner of **Voltros Community**
+```
 
 ---
 
