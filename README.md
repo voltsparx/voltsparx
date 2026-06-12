@@ -41,7 +41,7 @@
 
 - 🪪 Birth Kernel — Aug/26
 
-- 🛰️ Founder & Owner of **Voltros Community**
+- 🛰️ Founder & Owner of **Volchromatix Community**
 ```
 
 ---
@@ -223,7 +223,7 @@
 ## 🚀 Projects & Goals (Here)  
 - ⚡ Building cybersecurity tools.
 - 🎮 Making some games. Cause why not?
-- 📡 Creating educational resources under **Voltros Community**.
+- 📡 Creating educational resources under **Volchromatix Community (private)**.
 - 🌐 Developing modern, responsive web applications.
 - 🧬 Exploring quantum computing concepts.
 - 🤖 Practicing machine learning & data analytics.
