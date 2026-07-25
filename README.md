@@ -7,10 +7,6 @@
 ```
 - ⚔️ Cybersecurity Learning School Student (Offensive/Defensive)
 
-- 🏫 Class 9th Student
-
-- 🛡️ 14 Yrs Old
-
 - 💻 Programmer & Software Developer  (Learning)
 
 - 🌐 Web Designer & Web App Creator  (Learning)
